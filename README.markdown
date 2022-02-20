@@ -1,0 +1,3 @@
+# Mentalista
+
+Exercício de advinhação.
